@@ -1,0 +1,59 @@
+body {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  background-image: url("../images/solid1.png");
+  background-repeat: no-repeat;
+  max-width: 1366px;
+  max-height: 1366px;
+  box-sizing: border-box;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.bottom {
+  margin-top: 50px;
+  padding-left: 50px
+}
+
+.bottom1 {
+  padding-right: 50px;
+  margin-top: 50px;
+}
+
+.gaming {
+  margin-top: 50px;
+  padding-left: 50px;
+}
+
+.gadget {
+  margin-top: -30px;
+  padding-left: 160px;
+}
+
+.produkt {
+  margin-right: 90px;
+  margin-top: -105px;
+}
+
+.msi {
+  padding-left: 100px;
+}
+
+.shirt {
+  margin-left: -50px;
+  margin-top: -160px;
+}
+
+.team {
+  margin-top: -3px;
+}
+
+.kinguin {
+  margin-top: 250px;
+  padding-right: 40px;
+}
